@@ -1,0 +1,14 @@
+body {
+  background-image: url(bg002.webp);
+  background-size: 1700px 900px;
+  background-repeat: no-repeat;
+  background-color: aqua;
+
+}
+
+div {
+  position: absolute;
+  left: 630px;
+  top: 350px;
+  opacity: 0.8;
+}
